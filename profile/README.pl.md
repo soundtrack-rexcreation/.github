@@ -1,6 +1,6 @@
 # Soundtrack Rexcreation
 
-*Read this in other languages: [🇺🇸 English](README.md).*
+*Read this in other languages: [🇺🇸 English](/profile/README.md).*
 
 Projekt odtworzenia zapisu nutowego oryginalnej ścieżki dźwiękowej serii gier *Przygody Reksia* stworzonej przez [Aidem Media](https://boombit.com/).
 

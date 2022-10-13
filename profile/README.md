@@ -1,6 +1,6 @@
 # Soundtrack Rexcreation
 
-*Read this in other languages: [🇵🇱 polski](README.pl.md).*
+*Read this in other languages: [🇵🇱 polski](/profile/README.pl.md).*
 
 A project aiming at recreation of sheet music for the original soundtrack of *Adventures of Rex* game series created by [Aidem Media](https://boombit.com/).
 
