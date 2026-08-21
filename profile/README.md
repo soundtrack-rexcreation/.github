@@ -21,3 +21,4 @@ Recognition is done by ear on a best-effort basis. The results should be satisfy
 ### Rex and Captain Nemo
 
 - [paryz.wav / *night in paris* by Bartłomiej Brosz](https://github.com/soundtrack-rexcreation/Nemo_paryz)
+- [komnata_b.wav / *riders of the lost tomb* by Bartłomiej Brosz](https://github.com/soundtrack-rexcreation/Nemo_komnata_b)
